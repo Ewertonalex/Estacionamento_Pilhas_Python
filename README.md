@@ -1,1 +1,1 @@
-# Estacionamento_Pilhas_Python
+## Desenvolva um programa em Python utilizando uma pilha que resolva a seguinte problemática: Armazene as placas dos carros (apenas os números) que estão estacionados num Mangabeira Shopping em um local sem saída. Dado uma placa verifique se o carro está estacionado no Mangabeira Shopping. Caso esteja, informe a sequência de carros que deverá ser retirada para que o carro em questão consiga sair. 
